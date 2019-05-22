@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>TypeError: Article.save is not a function<br> &nbsp; &nbsp;at C:\Users\Wojciech\Desktop\apka\backend\server.js:44:13<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\layer.js:95:5)<br> &nbsp; &nbsp;at next (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\layer.js:95:5)<br> &nbsp; &nbsp;at C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:335:12)<br> &nbsp; &nbsp;at next (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:275:10)<br> &nbsp; &nbsp;at Function.handle (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:174:3)<br> &nbsp; &nbsp;at router (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:47:12)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\layer.js:95:5)<br> &nbsp; &nbsp;at trim_prefix (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:317:13)<br> &nbsp; &nbsp;at C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:284:7<br> &nbsp; &nbsp;at Function.process_params (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:335:12)<br> &nbsp; &nbsp;at next (C:\Users\Wojciech\Desktop\apka\backend\node_modules\express\lib\router\index.js:275:10)<br> &nbsp; &nbsp;at jsonParser (C:\Users\Wojciech\Desktop\apka\backend\node_modules\body-parser\lib\types\json.js:119:7)</pre>
+</body>
+</html>

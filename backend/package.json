@@ -1,0 +1,32 @@
+{
+  "name": "apka",
+  "version": "1.0.0",
+  "description": "articles",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "mongodb": "^3.2.5",
+    "mongoose": "^5.5.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hceicjow/apka.git"
+  },
+  "keywords": [
+    "daj",
+    "pan",
+    "tszy"
+  ],
+  "author": "noja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hceicjow/apka/issues"
+  },
+  "homepage": "https://github.com/hceicjow/apka#readme"
+}
