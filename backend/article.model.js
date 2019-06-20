@@ -11,7 +11,7 @@ let Article = new Schema({
     article_author: {
         type: String
     },
-    todo_date: {
+    article_date: {
         type: Date
     }
 });
